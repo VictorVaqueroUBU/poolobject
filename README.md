@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a72374288ff546ba8bb4ef26deb91892)](https://app.codacy.com/gh/VictorVaqueroUBU/poolobject?utm_source=github.com&utm_medium=referral&utm_content=VictorVaqueroUBU/poolobject&utm_campaign=Badge_Grade)
 [![Java CI](https://github.com/VictorVaqueroUBU/poolobject/actions/workflows/ci_jdk1.8_build_test.yml/badge.svg)](https://github.com/VictorVaqueroUBU/poolobject/actions/workflows/ci_jdk1.8_build_test.yml)
 [![codecov](https://codecov.io/gh/clv1003/poolobject/branch/master/graph/badge.svg)](https://app.codecov.io/gh/VictorVaqueroUBU/poolobject/tree/master)
 
